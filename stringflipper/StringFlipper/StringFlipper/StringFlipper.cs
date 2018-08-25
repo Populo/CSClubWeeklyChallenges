@@ -3,7 +3,7 @@
 namespace StringFlipper
 {
     /**
-     * https://pastebin.com/ryVaNuhk
+     * https://pastebin.com/yFkL3rk1
      * 
      * Chris Staudigel
      * 2018-08-25
